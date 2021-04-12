@@ -1,1 +1,2 @@
-Just testing the primeira_branch. Testing an error.
+Just testing the primeira_branch. Testing an error. Simulating conflict.
+
