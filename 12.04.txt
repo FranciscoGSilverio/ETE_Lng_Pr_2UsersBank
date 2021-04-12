@@ -1,1 +1,2 @@
 Simulando mais uma situação de erro.
+Agora vai dar erro pq eu modifiquei no navegador.
