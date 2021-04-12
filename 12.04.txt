@@ -1,1 +1,2 @@
 Simulando mais uma situação de erro.
+Mudei o arquivo localmente.
