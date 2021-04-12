@@ -1,2 +1,6 @@
 Simulando mais uma situação de erro.
+
 Mudei o arquivo localmente.
+
+Agora vai funcionar pq eu modifiquei nos 2 versionamentos.
+
