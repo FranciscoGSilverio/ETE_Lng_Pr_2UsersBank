@@ -1,1 +1,2 @@
-Just testing the primeira_branch. Changed this file.
+Just testing the primeira_branch. 
+Changed this file to test git pull. Simulating conflict.
